@@ -37,13 +37,12 @@ target-node (Ubuntu 22.04)
 - ✅ Professional Incident Report (see PDF below)
 
 ## 📄 Incident Report
-Check SOC_Incident_Report_v2.pdf file for incident report.
+Check SOC_Incident_Report.pdf file for incident report.
 
 ## Screenshots
 Kibana screenshots (dashboard, discover, MITRE ATT&CK)
 
-## Analyst
-**Aruna Kottilingalthode**  
-CompTIA Security+ | CompTIA A+  
+## SOC Analyst
+Aruna Kottilingalthode
 MSIT Cybersecurity Programme  
 linkedin.com/in/arunaksvv
